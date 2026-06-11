@@ -26,7 +26,7 @@
                 <h3 class="font-cinzel text-xl text-wedding-secondary font-normal tracking-wider mb-4">Resepsi</h3>
                 <div class="space-y-3 text-stone-600 font-light my-4">
                     <p class="font-playfair font-semibold text-stone-800 text-lg tracking-wide">Minggu, 5 Juli 2026</p>
-                    <p class="text-xs uppercase tracking-widest text-stone-500">Pukul 11.00 - Selesai</p>
+                    <p class="text-xs uppercase tracking-widest text-stone-500">Pukul 11.00 - 16.00</p>
                     <div class="w-6 h-[1px] bg-stone-200 mx-auto my-2"></div>
                     <p class="font-playfair text-wedding-primary font-medium text-base tracking-wide">Kp. Cigugur RT/RW. 01/05 Ds. Ciheulang, Kec. Ciparay. </p>
                 </div>

@@ -27,7 +27,7 @@
                 <p class="text-[9px] tracking-[0.4em] uppercase text-wedding-goldAccent font-medium mb-2">The Bride</p>
                 <h3 class="font-playfair text-2xl font-normal text-wedding-secondary mb-3 tracking-wide">Husna Hakimah</h3>
                 <p class="text-stone-500 text-xs font-light leading-relaxed tracking-wide">
-                    Putri tercinta dari Keluarga <br><span class="font-medium text-stone-700">Bpk. Nana</span> <br>& <span class="font-medium text-stone-700">Ibu Fatimah</span>
+                    Putri tercinta dari Keluarga <br><span class="font-medium text-stone-700">Bpk. Nana Mulyana</span> <br>& <span class="font-medium text-stone-700">Ibu Ida Mutiah</span>
                 </p>
             </div>
         </div>
