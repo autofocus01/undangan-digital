@@ -16,4 +16,4 @@
             <img src="{{ asset('assets/image/E&H_7.jpeg') }}" alt="Gallery" class="w-full h-full object-cover object-center hover:scale-105 transition duration-700">
         </div>
     </div>
-</section>
+</section>  

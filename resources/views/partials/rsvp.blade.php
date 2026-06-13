@@ -72,12 +72,13 @@
 
         
         <div class="text-center mt-28 pt-10 border-t border-white/5 max-w-3xl mx-auto pb-6">
-            <p class="font-script text-wedding-goldAccent text-4xl mb-2">Terima Kasih</p>
-            <p class="font-playfair text-stone-400 font-light text-sm italic max-w-md mx-auto mb-8 tracking-wide">Merupakan suatu kehormatan & kebahagiaan mendalam bagi kami sekeluarga besar apabila Anda berkenan hadir memberikan doa restu suci.</p>
             <a href="https://youtu.be/XKwlZ-M4QW0?si=DtVaTipD3_R8omdw" target="_blank" 
-            class="inline-block hover:scale-50 transition-transform duration-50">
+            class="inline-block hover:scale-70 transition-transform duration-70">
                 <i class="fa-brands fa-youtube text-3xl" style="color: #FF0000;"></i>
             </a>
+            <p class="font-script text-wedding-goldAccent text-1xl mb-1">Yt by Al Istihdhor</p>
+            <p class="font-script text-wedding-goldAccent text-4xl mb-2">Terima Kasih</p>
+            <p class="font-playfair text-stone-400 font-light text-sm italic max-w-md mx-auto mb-8 tracking-wide">Merupakan suatu kehormatan & kebahagiaan mendalam bagi kami sekeluarga besar apabila Anda berkenan hadir memberikan doa restu suci.</p>
             <p class="text-[9px] text-stone-600 font-medium tracking-[0.4em] uppercase">© 2026 EDI & HUSNA. ALL RIGHTS RESERVED.</p>
         </div>
     </section>
